@@ -33,6 +33,7 @@ namespace _02._04._2018
         {
             x = Math.Sin(Rotate * Math.PI / 180) * Power + x;
             y = Math.Cos(Rotate * Math.PI / 180) * Power + y;
+
         }
         public void TurnRight()
         {
